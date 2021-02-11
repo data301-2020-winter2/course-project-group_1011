@@ -1,1 +1,1 @@
-All Jupyter notebooks should be in this parent directory.
+Added a readme file

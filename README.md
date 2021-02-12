@@ -19,7 +19,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 - Max Munsie: First year P.P.E. student that also wants to make a program and robot that will make me coffee.
 - Mawanli Cui: Second year learning computer science, it's may dream that one day can play games like Sword Art Online.
-- Person 3: one sentence about you!
+- Alise Artichuk: I am a third year EESC student who loves to ski and play with my dogs. 
 
 ## References
 

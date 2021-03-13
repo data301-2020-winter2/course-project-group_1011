@@ -8,6 +8,7 @@ def read_and_process(url_or_path):
         .drop(axis =1, columns={'chorus_hit','sections','duration_ms','Speechiness','Acousticness','Instrumentalness','uri','Liveness'})
         .dropna()
         .sort_values(by = ['Track'])
+        .reset_index()
     )
     
     return df

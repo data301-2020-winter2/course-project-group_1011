@@ -15,6 +15,10 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 {The data that we chose is provided by a user on Kaggle. This dataset describes information of a track like the artist and track name, as well as some features of the track like danceability, loudness, and key. There is a category that states if the track is a hit or flop, the details of this distinction can be found in the raw data's README. It is collected in 2020 according to Kaggle. The user collected this data to make a song classification model to predict if a new track would be popular or not. The person who made this summary of the data used Python and collected the raw data (digitized historical records) from Spotify's and Billboard's Web API.}
 
+## Project Presentation 
+
+https://www.youtube.com/watch?v=uWmNVjsJLqw
+
 ## Team Members
 
 - Mawanli Cui: Second year learning computer science, it's may dream that one day can play games like Sword Art Online.
